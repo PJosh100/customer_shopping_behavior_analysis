@@ -5,6 +5,7 @@ This project presents an end-to-end analysis of customer shopping behavior using
 
 The analysis was carried out using Python for data cleaning and preparation, SQL for structured querying, and Power BI for visualization and reporting.
 
+
 **Dataset Description**
 
 Records: 3,900 customer purchase transactions
@@ -19,6 +20,7 @@ Shopping behavior (discount usage, purchase frequency, review ratings, shipping 
 
 Missing values were identified during exploratory analysis and treated appropriately during preprocessing.
 
+
 **Tools and Technologies**
 
 Python (Pandas): Data cleaning, preprocessing, and feature engineering
@@ -26,6 +28,7 @@ Python (Pandas): Data cleaning, preprocessing, and feature engineering
 MySQL/SQL: Data querying and business analysis
 
 Power BI: Data visualization and dashboard development
+
 
 **Key Analysis Questions**
 
@@ -43,6 +46,7 @@ Which products are highly dependent on discounts?
 
 How can customers be segmented based on purchase history?
 
+
 **Key Insights**
 
 A small number of customer segments contribute a significant share of total revenue.
@@ -54,6 +58,7 @@ Repeat and loyal customers show a stronger tendency to subscribe.
 Some products are heavily reliant on discounts, which may impact long-term profitability.
 
 Certain age groups and shipping preferences are associated with higher revenue contribution.
+
 
 **Dashboard**
 
@@ -68,6 +73,7 @@ Product performance
 Subscription behavior
 
 The dashboard file is included in the repository.
+
 
 **Business Recommendations**
 
